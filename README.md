@@ -1,3 +1,6 @@
+> [!WARNING]
+> 🍐 PearPass is currently paused from active development, so please use at your own caution until further notice.
+
 # pearpass-lib-ui-theme-provider
 
 A React theme provider library for Pearpass applications that supplies consistent colors, themes and styling capabilities across both Desktop and React Native projects.
