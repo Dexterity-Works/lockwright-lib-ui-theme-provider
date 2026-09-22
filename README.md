@@ -24,7 +24,7 @@ Community fork of PearPass (Apache 2.0). Not affiliated with or endorsed by Teth
 
 ## Security Notice
 
-Imports stay `pearpass-lib-ui-theme-provider`. That npm name is not this fork if you install it from the npm registry.
+The package name is `lockwright-lib-ui-theme-provider`.
 
 ## Installation
 
@@ -37,7 +37,7 @@ npm install git+https://github.com/Dexterity-Works/lockwright-lib-ui-theme-provi
 ### React Web
 ```jsx
 import React from 'react';
-import { ThemeProvider } from '@tetherto/pearpass-lib-ui-theme-provider';
+import { ThemeProvider } from 'lockwright-lib-ui-theme-provider';
 import styled from 'styled-components';
 
 const StyledComponent = styled.div`
@@ -59,7 +59,7 @@ function App() {
 ### React Native
 ```jsx
 import React from 'react';
-import { ThemeProvider } from '@tetherto/pearpass-lib-ui-theme-provider/native';
+import { ThemeProvider } from 'lockwright-lib-ui-theme-provider/native';
 import styled from 'styled-components/native';
 
 const StyledComponent = styled.View`

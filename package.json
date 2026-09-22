@@ -1,5 +1,5 @@
 {
-  "name": "pearpass-lib-ui-theme-provider",
+  "name": "lockwright-lib-ui-theme-provider",
   "version": "0.0.16",
   "main": "src/index.js",
   "license": "Apache-2.0",
